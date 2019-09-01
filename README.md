@@ -17,4 +17,4 @@ in the following directory ./ClientApp where the package.json is exists.
 ### Usage
 you can run the back-end solution and the front-end project will be already run.
 
-then go to Blobs tab and there we go !
+and there we go !
