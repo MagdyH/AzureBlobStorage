@@ -22,8 +22,7 @@ import { ImageListComponent } from './image-list/image-list.component';
     HttpClientModule,
     FormsModule,
     RouterModule.forRoot([
-      { path: '', component: ImageListComponent, pathMatch: 'full' },
-      { path: 'image-list', component: ImageListComponent}
+      { path: '', component: ImageListComponent, pathMatch: 'full' }
     ])
   ],
   providers: [],
